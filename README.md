@@ -3,6 +3,9 @@
 ## Install
 Copy the contents of `locale.ini` and paste it above `[LOCALE]` in  `..\Origin Games\FIFA 18\Data\locale.ini` (don't replace/remove any of the current content in that file!).
 
+### FIFA18-CMMOD
+Use [FIFA18-CMMOD](https://github.com/linuxfreak90/FIFA18-CMMOD) to remove CPU game cheats/attribute changing in Career Mode.
+
 ## Features
 - Increased CPUAI difficulty (Legendary>)
 - Increased CPUAI passing skills
