@@ -1,7 +1,7 @@
 # FIFA18-GPMOD
 
 ## Install
-Copy the contents of `gp.ini` and paste it somewhere in `..\Origin Games\FIFA 18\Data\locale.ini` (don't replace the current content).
+Copy the contents of `locale.ini` and paste it above `[LOCALE]` in  `..\Origin Games\FIFA 18\Data\locale.ini` (don't replace/remove any of the current content in that file!).
 
 ## Features
 - Increased CPUAI difficulty (Legendary>)
@@ -10,4 +10,6 @@ Copy the contents of `gp.ini` and paste it somewhere in `..\Origin Games\FIFA 18
 - Use button switching level of PES
 - Tweaked referee foul/card strictness
 - Reduced gameplay delay timers (own goal, offside, ..) 
+- CPUAI should be more offensive
+- Reduced CPUAI 'game cheating'
 - ..
