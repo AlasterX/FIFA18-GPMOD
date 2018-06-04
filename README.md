@@ -8,14 +8,12 @@ Use [FIFA18-CMMOD](https://github.com/linuxfreak90/FIFA18-CMMOD) to remove CPU g
 
 ## Features
 - Increased CPUAI difficulty (Legendary>)
-- Increased CPUAI passing skills
 - Increased CPUAI defending skills
-- Use button switching level of PES
-- Tweaked referee foul/card strictness
-- CPUAI should be more offensive
-- Reduced CPUAI 'game cheating'
+- Increased CPUAI commit levels
 - Improved CPUAI positioning
-- Decrease CPUAI wait timers
-- Remove as much CPUAI as possible
-- Reduced gameplay delay timers (own goal, offside, ..) 
+- CPUAI uses attributes and skill level
+- Reduced CPUAI 'game cheating'
+- Use button switching level of PES
+- Lowered referee foul/card strictness
+- Decreased CPUAI/scenes/replay wait timers
 - ..
